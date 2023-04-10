@@ -1,1 +1,0 @@
-# voll-clinic-api
